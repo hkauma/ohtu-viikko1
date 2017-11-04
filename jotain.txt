@@ -1,2 +1,0 @@
-Muutoksia jotka aion lisätä stagingille git add -p avulla.
-
